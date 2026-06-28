@@ -28,10 +28,5 @@
   "file-recovery": true,
   "publish": false,
   "sync": true,
-<<<<<<< HEAD
   "bases": true
-=======
-  "bases": true,
-  "webviewer": false
->>>>>>> branch 'main' of https://github.com/xeno777z/new_vault.git
 }
