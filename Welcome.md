@@ -19,4 +19,4 @@ Hehe
 Fhfj
 
 	nigga
-We will use merge resolve editor like 
+We will use merge resolve editor like vscode has, jus
