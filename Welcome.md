@@ -28,3 +28,5 @@ There are 3 section in a single screen, the screen is split in 2 section top and
 nigga are you alright!?
 
 another one!
+
+are you gay?
