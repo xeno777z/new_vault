@@ -1,0 +1,1 @@
+- [ ] multi-vault support - we need to know from the plugin if user created new vault, or changed the vault
