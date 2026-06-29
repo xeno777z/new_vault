@@ -1,1 +1,1 @@
-- [ ] multi-vault support - we need to know from the plugin if user created new vault, or changed the vault
+- [ ] multi-vault support - we need to know from the plugin if user created new vault, or changed the vault, we need to have one github repository for one vault, so we can track them indep
