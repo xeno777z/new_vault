@@ -19,4 +19,4 @@ Hehe
 Fhfj
 
 	nigga
-We will use merge resolve editor like vscode has, just viewing the diff and giving options 
+We will use merge resolve editor like vscode has, just viewing the diff and giving options like accet
