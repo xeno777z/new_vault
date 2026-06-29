@@ -23,4 +23,4 @@ Fhfj
 We will use merge resolve editor like vscode has, just viewing the diff and giving options like accept incoming, accept yours, accept both kind of thing, we need a good mechanism for resolving merge conflicts
 
 Vscode terminology for merge editor
-
+There are 
