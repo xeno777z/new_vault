@@ -1,0 +1,1 @@
+We need to make a player which streams the magnet Link, so it will be like a video will play or stream through the magnet Link, we could potentially make a TV android app like netmirror in tv hahaha
