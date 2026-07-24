@@ -1,0 +1,10 @@
+{
+	"id": "obsync-plugin",
+	"name": "ObSync",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "Sends vault change events to the ObSync app for seamless sync.",
+	"author": "ObSync",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
